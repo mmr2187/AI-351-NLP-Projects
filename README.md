@@ -10,4 +10,4 @@ Repository for AI 351 Natural Language Processing Projects handled by Miguel Fra
 | Sem/AY | Project Title | Project Description | Group Members | Test Link (if available) |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1st/24-25 | [Sample Title](https://github.com/mmr2187/AI-351-NLP-Projects/tree/main) | Sample Description | Me | None |
-| test |
+| 1st/24-25 | [CuatroLLM niche translations with adaptive in-context learning: exploring English-Filipino](https://github.com/jaceroldan/adaptive-low-resource-mt) | Applying Adaptive Machine Translation fine-tuning (Moslem et al.) on britllm/CuatroLLM model. | Alister Marc Domilies, Drandreb Earl Juanico, Juan Carlos Roldan | None |
